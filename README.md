@@ -1,2 +1,5 @@
 # bluefeet32.github.io
-Main github pages landing page to redirect to sub projects
+Landing page to redirect to sub projects
+
+# Links
+- Irish Orienteering Archives: https://bluefeet32.github.io/IrishOrienteeringArchives/
