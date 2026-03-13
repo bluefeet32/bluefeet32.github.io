@@ -2,4 +2,4 @@
 Landing page to redirect to sub projects
 
 # Links
-- Irish Orienteering Archives: https://bluefeet32.github.io/IrishOrienteeringArchives/src/
+- <a href="https://bluefeet32.github.io/IrishOrienteeringArchives/src/">Irish Orienteering Archives</a>
